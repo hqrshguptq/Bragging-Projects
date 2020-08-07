@@ -11,4 +11,4 @@
 | :four: | [Mini YouTube](https://updatingsoon/) | <br>A React App using **YouTube** API<br><br> | [](https://github.com/hqrshguptq/updatingsoon)
 
 
-<p align="center"><br><a href="#hugs-bragging-projects-by-hqrshguptq--">:top:</a><br><sup><strong>Show <a href="https://github.com/hqrshguptq?tab=repositories">some</a>&nbsp;:heart:&nbsp; &nbsp;by starring some of repositories which helped you howsoever!<strong></sup><br><br><a href="https://twitter.com/hqrshguptq"> </a> <a href="https://github.com/hqrshguptq/"><img src="https://img.shields.io/github/followers/hqrshguptq.svg?label=Follow%20@hqrshguptq&style=social"> </a><br></p>
+<p align="center"><br><a href="#hugs---projects-by-harshgupta">:top:</a><br><sup><strong>Show some</a>&nbsp;:heart:&nbsp; &nbsp;by starring some of <a href="https://github.com/hqrshguptq?tab=repositories">repositories which helped you howsoever! :)<strong></sup><br><br><a href="https://twitter.com/hqrshguptq"> </a> <a href="https://github.com/hqrshguptq/"><img src="https://img.shields.io/github/followers/hqrshguptq.svg?label=Follow%20@hqrshguptq&style=social"> </a><br></p>
